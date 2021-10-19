@@ -18,7 +18,7 @@
 
 project = 'Plan 9 Documentation Project'
 copyright = '2021, TIP9UG'
-author = 'Vic Thacker'
+author = 'TIP9UG Authors'
 
 
 # -- General configuration ---------------------------------------------------
