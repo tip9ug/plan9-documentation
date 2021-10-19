@@ -17,7 +17,7 @@ git clone git@github.com:tip9ug/plan9-documentation.git
 sudo pkg install -y py38-pip py38-sphinx py38-myst-parser py38-sphinx_rtd_theme gmake
 pip install docutils==0.16
 sudo pip install sphinx-autobuild
-cd documentation
+cd plan9-documentation
 sphinx-autobuild source build/html
 ```
 
