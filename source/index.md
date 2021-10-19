@@ -1,5 +1,5 @@
-Welcome to the Plan 9 Community!
-================================
+Welcome to the Plan 9 Documentation Project!
+============================================
 
 ## Our Goal
 
