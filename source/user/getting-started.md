@@ -13,9 +13,14 @@ Plan 9 is available for general use.
 * 300 MiB of storage (SD, IDE, SATA, SAS)
 * Either a CD/DVD drive or a USB port for booting the installer media
 ``` .. note::
-    These requirements are for the installation procedure. A machine with 16MB of memory and no free disk space will work as a terminal but won't run the installer so you need a file server and auth server first.
+These requirements are for the installation procedure. A machine with 16MB of memory 
+and no free disk space will work as a terminal but won't run the installer so you need 
+a file server and auth server first.
 
-If you wish to install from local media, you need a FAT file system or a CD-ROM drive with write capability to get the distribution archive on a CD. If you wish to install over the internet, you need a supported Ethernet card or a PPP dial-up account using a modem (not a Winmodem). 
+If you wish to install from local media, you need a FAT file system or a CD-ROM drive 
+with write capability to get the distribution archive on a CD. If you wish to install 
+over the internet, you need a supported Ethernet card or a PPP dial-up account using 
+a modem (not a Winmodem). 
 ```
 
 ### Tested hardware
