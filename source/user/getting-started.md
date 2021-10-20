@@ -74,5 +74,5 @@ When QEMU starts, press `esc` and select `2` to boot the ISO.
 
 ## Downloading
 
-The **Plan 9** ISO image is available for download [here](http://ghostbsd.org/download).
+The **Plan 9** ISO image is available for download [here](https://https://plan9.io/plan9/download.html).
 
