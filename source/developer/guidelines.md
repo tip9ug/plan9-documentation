@@ -1,4 +1,4 @@
-# Guidelines
+## Guidelines
 
-# C Coding Style
+### C Coding Style
 
