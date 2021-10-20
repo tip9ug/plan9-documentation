@@ -21,6 +21,7 @@ user/components
 user/troubleshooting
 user/FAQ
 user/feedback
+user/acknowledgements
 ```
 
 ```{toctree}
@@ -29,7 +30,20 @@ user/feedback
 :maxdepth: 2
 :glob:
 
+developer/guidelines
 developer/contributing
 developer/building
 developer/tools
+developer/acknowledgements
+```
+
+
+```{toctree}
+:caption: Plan 9 Administrator Guide
+:hidden:
+:maxdepth: 2
+:glob:
+
+admin/getting-started
+admin/acknowledgements
 ```
