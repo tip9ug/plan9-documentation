@@ -6,13 +6,16 @@ Plan 9 is available for general use.
 
 ## System requirements
 
-* 100 MHz or greater Intel/ARM 32-bit processor
-* 512 MiB RAM (system memory for physical and viritualized installs)
+* 90 MHz or greater Intel/ARM 32-bit processor
+* 32 MiB of RAM (system memory for physical and viritualized installs)
 * SVGA capable of 800x600 screen resolution or greater
 * Network connection
-* 500 MiB of storage
+* 300 MiB of storage (SD, IDE, SATA, SAS)
 * Either a CD/DVD drive or a USB port for booting the installer media
 
+Note:  These are the requirements for the installation procedure. A machine with 16MB of memory and no free disk space at all will work as a terminal but won't run the installer so you need a file server and auth server first.
+
+If you wish to install from local media, you need a FAT file system or a CD-ROM drive (and a CD writer or some other way to get the distribution archive on a CD). If you wish to install over the internet, you need a supported Ethernet card or a PPP dial-up account using a modem (not a Winmodem). 
 
 ### Tested hardware
 
