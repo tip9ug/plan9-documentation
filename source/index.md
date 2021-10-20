@@ -31,4 +31,5 @@ user/feedback
 
 developer/contributing
 developer/building
+developer/tools
 ```
