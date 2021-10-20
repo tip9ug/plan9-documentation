@@ -5,9 +5,15 @@ Welcome to the Plan 9 Documentation Project!
 
 In general, Plan9 is considered beyond the average computer user's knowledge. We want to improve Plan 9 documentation for entry-level users. Plan 9 mastery begins at mastering the basics. It is the project's intention to create clear and concise documentation to promote Plan 9 use and enjoyment.
 
+```{toctree}
+:caption: Contributor documentation
+:hidden:
+
+contributor/Get_Involved
+```
 
 ```{toctree}
-:caption: User Guide
+:caption: Plan 9 User Guide
 :hidden:
 
 user/getting-started
@@ -17,20 +23,12 @@ user/FAQ
 user/feedback
 ```
 
-
 ```{toctree}
-:caption: Contributor documentation
-:hidden:
-
-contributor/Get_Involved
-```
-
-```{toctree}
-:caption: Developer Guide
+:caption: Plan 9 Developer Guide
 :hidden:
 :maxdepth: 2
 :glob:
 
-project/contributing
-project/acknowledgements
+developer/contributing
+developer/building
 ```
