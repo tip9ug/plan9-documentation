@@ -38,7 +38,8 @@ Not all networking devices are supported by Plan 9 yet.
 ### Virtualization environments
 
 ``` .. note::
-    We recommend beginners run Plan 9 on virutual environments if possible. This should give you the best hardware support.
+We recommend beginners run Plan 9 on virutual environments if possible. This should give you the best 
+hardware support.
 ```
 
 Users have reported success in running Plan 9 in the following virtualization environments:
