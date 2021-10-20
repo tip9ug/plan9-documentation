@@ -45,7 +45,7 @@ Users have reported success in running Plan 9 in the following virtualization en
 
 #### QEMU
 
-Create an 1 GiB (or larger) `ghostbsd.img` image file on which you can install the system:
+Create an 1 GiB (or larger) `plan9.img` image file on which you can install the system:
 
 ```
 $ pwd
