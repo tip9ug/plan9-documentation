@@ -12,10 +12,11 @@ Plan 9 is available for general use.
 * Network connection
 * 300 MiB of storage (SD, IDE, SATA, SAS)
 * Either a CD/DVD drive or a USB port for booting the installer media
+``` .. note::
+    These requirements are for the installation procedure. A machine with 16MB of memory and no free disk space will work as a terminal but won't run the installer so you need a file server and auth server first.
 
-Note:  These are the requirements for the installation procedure. A machine with 16MB of memory and no free disk space at all will work as a terminal but won't run the installer so you need a file server and auth server first.
-
-If you wish to install from local media, you need a FAT file system or a CD-ROM drive (and a CD writer or some other way to get the distribution archive on a CD). If you wish to install over the internet, you need a supported Ethernet card or a PPP dial-up account using a modem (not a Winmodem). 
+If you wish to install from local media, you need a FAT file system or a CD-ROM drive with write capability to get the distribution archive on a CD. If you wish to install over the internet, you need a supported Ethernet card or a PPP dial-up account using a modem (not a Winmodem). 
+```
 
 ### Tested hardware
 
@@ -26,15 +27,13 @@ Please contact us if you would like to sponsor the project with a hardware donat
 
 ### Networking hardware
 
-Not all networking devices are supported by Plan 9 yet. In those cases, you may want to consider using a USB based networking devices. Plan 9 developers currently have access to the following USB based networking devices which are known to work:
+Not all networking devices are supported by Plan 9 yet. 
 
-* [USB 802.11n WLAN Adapters based on `ID 0bda:8176 Realtek Semiconductor Corp. RTL8188CUS`](https://vermaden.wordpress.com/2020/10/30/realtek-usb-wifi-review/)
-* [USB Wired Ethernet Adapters based on `ID 0b95:772b ASIX Electronics Corp. AX88772B`](https://www.freebsd.org/cgi/man.cgi?query=axe)
 
 ### Virtualization environments
 
 ``` .. note::
-    We recommend running Plan 9 on real hardware ("bare metal") if possible. This should give you the best possible performance and hardware support.
+    We recommend beginners run Plan 9 on virutual environments if possible. This should give you the best hardware support.
 ```
 
 Users have reported success in running Plan 9 in the following virtualization environments:
