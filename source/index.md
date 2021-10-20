@@ -30,10 +30,10 @@ user/acknowledgements
 :maxdepth: 2
 :glob:
 
-developer/guidelines
 developer/contributing
-developer/building
 developer/tools
+developer/guidelines
+developer/building
 developer/acknowledgements
 ```
 
