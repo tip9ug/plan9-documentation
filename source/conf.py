@@ -14,10 +14,6 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-# -- Custom css 
-def setup(app):
-    app.add_stylesheet('_static/css/custom.css')
-
 # -- Project information -----------------------------------------------------
 
 project = 'Plan 9 Documentation Project'
