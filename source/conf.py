@@ -17,7 +17,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Plan 9 Documentation Project'
-copyright = '2021, TIP9UG'
+copyright = '2021, TIP9UG Authors'
 author = 'TIP9UG Authors'
 
 
