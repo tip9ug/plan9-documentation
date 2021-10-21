@@ -47,3 +47,13 @@ developer/acknowledgements
 admin/getting-started
 admin/acknowledgements
 ```
+
+```{toctree}
+:caption: Plan 9 Howto Guides
+:hidden:
+:maxdepth: 2
+:glob:
+
+howto/pxe-boot-raspberry-pi
+howto/acknowledgements
+```
