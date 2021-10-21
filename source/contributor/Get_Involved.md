@@ -15,7 +15,7 @@ If you've found a problem or have an idea for an improvement, report it to the d
 If you'd like to take the next step in contributing to Plan 9, help triage all those GitHub tickets that people are filing! By separating the wheat from the chaff, you will help developers figure out which issues they need to work on and help them get the information they need to fix them. You don't need any programming experience to triage GitHub tickets, and it's a perfect introduction if you want to become a developer eventually but don't feel like your programming experience is good enough yet.
 
 ### Development
-If you'd like to contribute code to Plan 9, there are many small tasks available, so you don't even need to be a programmer to start developing Plan 9! In the process, you'll learn valuable new skills like C, go, shell scripting, creating and maintaining Plan 9 applications, and so on.
+If you'd like to contribute code to Plan 9, there are many small tasks available, so you don't even need to be a programmer to start developing Plan 9! In the process, you'll learn valuable new skills like C, Go, shell scripting, creating and maintaining Plan 9 applications, and so on.
 
 ### Documentation
 Even with the best-designed software, users will need documentation to help them do what they want and get the most out of it.  Good-quality documentation is essential and has one of the most significant impacts on end-users.
