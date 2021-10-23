@@ -15,7 +15,7 @@ Beyond is the starting point to find the area you want to contribute. Here is ou
 
 Start at the top of this list and work your way down. We want to make it easy for people to get involved. 
 
-## What about other topic?
+## What about other topics?
 Other flavors or distributions of Plan 9 will be written about at a later time. At present, our primary focus is writing about Plan 9 (4th Edition). However, this may change as more contributors join the project.
 
 Other potential topics include, but are not limited to, the following:
