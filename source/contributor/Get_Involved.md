@@ -13,14 +13,16 @@ Beyond is the starting point to find the area you want to contribute. Here is ou
  - Plan 9 (4th Edition) Administrator Guide
  - Plan 9 (4th Edition) Howto Guides
 
+Start at the top of this list and work your way down. We want to make it easy for people to get involved. 
+
+## What about other topic?
 Other flavors or distributions of Plan 9 will be written about at a later time. At present, our primary focus is writing about Plan 9 (4th Edition). However, this may change as more contributors join the project.
 
-Other ideas include, but are not limited to, the following:
+Other potential topics include, but are not limited to, the following:
 
  - Tutorial on 9legacy to describe differences from Plan 9 (4th Edition)
  - Tutorial on 9front to describe differences from Plan 9 (4th Edition)
 
-Start at the top of this list and work your way down. We want to make it easy for people to get involved. 
 
 ## GitHub
 Our documents are editable via a web browser. However, it is suggested to sign up for a GitHub account and join the Plan 9 Documentation Project Team. 
