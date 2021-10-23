@@ -23,9 +23,8 @@ Other potential topics include, but are not limited to, the following:
  - Tutorial on 9legacy to describe differences from Plan 9 (4th Edition)
  - Tutorial on 9front to describe differences from Plan 9 (4th Edition)
 
-
 ## GitHub
-Our documents are editable via a web browser. However, it is suggested to sign up for a GitHub account and join the Plan 9 Documentation Project Team. 
+Our documents are editable via a web browser. However, signing up for a GitHub account will provide access to project dashboards and discussion areas. 
 
 ## Questions
 If you need help to get started, please ask any questions you may have on [Telegram](https://t.me/tip9ug) or write Vic at v@tip9ug.jp.
