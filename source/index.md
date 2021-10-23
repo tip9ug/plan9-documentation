@@ -10,5 +10,5 @@ In general, Plan9 is considered beyond the average computer user's knowledge. We
 :hidden:
 
 contributor/Get_Involved
-project/acknowledgments
+contributor/acknowledgments
 ```
