@@ -1,4 +1,0 @@
-## Guidelines
-
-### C Coding Style
-
