@@ -9,7 +9,7 @@ We want to ensure that our project community remains a welcoming and friendly pl
 Beyond is the starting point to find the area you want to contribute. Here is our current work in progress listing on GitHub:
 
  - [Plan 9 (4th Edition) Tutorial](https://github.com/tip9ug/plan9-4th-edition-tutorial) 
- - [Plan 9 (4th Edition) Developer Guide](https://github.com/tip9ug/plan9-4th-edition-development-guide)
+ - [Plan 9 (4th Edition) Development Guide](https://github.com/tip9ug/plan9-4th-edition-development-guide)
  - [Plan 9 (4th Edititon) Single Server Installation Guide](https://github.com/tip9ug/plan9-4th-edition-single-server-installation-guide)
  - [Plan 9 (4th Edititon) Cluster Installation Guide](https://github.com/tip9ug/plan9-4th-edition-cluster-installation-guide)
  - [Plan 9 (4th Edition) System Administrator Guide](https://github.com/tip9ug/plan9-4th-edition-system-administration-guide)
