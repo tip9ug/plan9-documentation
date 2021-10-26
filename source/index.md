@@ -1,5 +1,5 @@
-Welcome to the Plan 9 Documentation Project!
-============================================
+Welcome to the Plan 9 Documentation Task Force!
+===============================================
 
 ## Introduction
 
