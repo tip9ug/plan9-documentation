@@ -1,7 +1,7 @@
 Get Involved
 ============
 
-Welcome to the Plan 9 Document Project! Good-quality documentation is essential and has one of the most significant impacts on end-users. By getting involved, you will meet new friends, learn new skills and make a difference for many users while working with people from all around the globe. This page will give you a brief introduction to things everyone contributing should know and help you get started with contributing. 
+Welcome to the Plan 9 Document Task Force! Good-quality documentation is essential and has one of the most significant impacts on end-users. By getting involved, you will meet new friends, learn new skills and make a difference for many users while working with people from all around the globe. This page will give you a brief introduction to things everyone contributing should know and help you get started with contributing. 
 
 We want to ensure that our project community remains a welcoming and friendly place where people can feel comfortable. Therefore, we ask you to abide by the [Plan 9 Documentation Project Code of Conduct](../CoC.md) when interacting with the rest of the community.
 
