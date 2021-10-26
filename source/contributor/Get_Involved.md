@@ -29,14 +29,6 @@ Beyond is the starting point to find the area you want to contribute. Here is ou
 
 Start anywhere you like. We want to make it easy for people to get involved. 
 
-## What about other topics?
-Other flavors or distributions of Plan 9 will be written about at a later time. At present, our primary focus is writing about Plan 9 (4th Edition). However, this may change as more contributors join the project.
-
-Other potential topics include, but are not limited to, the following:
-
- - Tutorial on 9legacy to describe differences from Plan 9 (4th Edition)
- - Tutorial on 9front to describe differences from Plan 9 (4th Edition)
-
 ## GitHub
 Our documents are editable via a web browser. However, signing up for a GitHub account will provide access to project dashboards and discussion areas. 
 
