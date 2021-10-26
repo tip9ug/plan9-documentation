@@ -1,7 +1,7 @@
-Plan 9 Documentation Project Code of Conduct
-============================================
+Plan 9 Documentation Task Force Code of Conduct
+===============================================
 
-The Plan 9 Documentation Project works to be welcoming and respectful, and we want to ensure that doesn't change as we grow and evolve.
+The Plan 9 Documentation Task Force works to be welcoming and respectful, and we want to ensure that doesn't change as we grow and evolve.
 
 All contributors do it in their spare time as a hobby. Other people will use your contribution, and you, in turn, will depend on the work of others. Any decision you take will affect other users. You should take those consequences into account.
 
