@@ -27,7 +27,7 @@ Beyond is the starting point to find the area you want to contribute. Here is ou
  - [9pi Single Server Installation Guide](https://github.com/tip9ug/9pi-single-server-installation-guide)
  - [9pi Cluster Installation Guide](https://github.com/tip9ug/9pi-cluster-installation-guide)
 
-Start at the top of this list and work your way down. We want to make it easy for people to get involved. 
+Start anywhere you like. We want to make it easy for people to get involved. 
 
 ## What about other topics?
 Other flavors or distributions of Plan 9 will be written about at a later time. At present, our primary focus is writing about Plan 9 (4th Edition). However, this may change as more contributors join the project.
