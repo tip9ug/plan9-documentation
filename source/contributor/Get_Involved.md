@@ -17,6 +17,16 @@ Beyond is the starting point to find the area you want to contribute. Here is ou
  - [Plan 9 (4th Edition) Storage Administrator Guide](https://github.com/tip9ug/plan9-4th-edition-storage-administration-guide)
  - [Plan 9 (4th Edition) Howto Guides](https://github.com/tip9ug/plan9-4th-edition-howto-guides)
 
+ - [9front Single Server Installation Guide](https://github.com/tip9ug/9front-single-server-installation-guide)
+ - [9front Cluster Installation Guide](https://github.com/tip9ug/9front-cluster-installation-guide)
+ - [9front Storage Administrator Guide](https://github.com/tip9ug/9front-storage-administration-guide)
+
+ - [9legacy Single Server Installation Guide](https://github.com/tip9ug/9legacy-single-server-installation-guide)
+ - [9legacy Cluster Installation Guide](https://github.com/tip9ug/9legacy-cluster-installation-guide)
+
+ - [9pi Single Server Installation Guide](https://github.com/tip9ug/9pi-single-server-installation-guide)
+ - [9pi Cluster Installation Guide](https://github.com/tip9ug/9pi-cluster-installation-guide)
+
 Start at the top of this list and work your way down. We want to make it easy for people to get involved. 
 
 ## What about other topics?
